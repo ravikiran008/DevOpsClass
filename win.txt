@@ -1,0 +1,1 @@
+Hello This file is created on win-pc to show how the remoting works in git
