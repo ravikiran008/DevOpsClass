@@ -4,4 +4,4 @@
 
 # Allowing Linux instance to push the code to remote repo with out password for every push
 
-# This is to show how merge conflict works - this is written by win-user
+# This is to show merge conflict - nd the job is done - win & linux user
